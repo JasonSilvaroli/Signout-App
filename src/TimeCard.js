@@ -1,5 +1,5 @@
 import React from 'react';
-import { CardContent, Typography, Grid, Paper, Card, TextField, FormControl } from '@material-ui/core';
+import { CardContent, Typography, Grid, Paper, TextField, FormControl } from '@material-ui/core';
 import TimeRow from './TimeRow'
 
 function TimeCard() {
